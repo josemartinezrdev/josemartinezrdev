@@ -2,7 +2,8 @@
 🪪 Mi nombre es José Martínez.<br>🌎 Mi país de origen es Colombia.<br>📲 Me gusta aprender cosas nuevas.<br>👨🏻‍💻 Soy un estudiante de programación.<br>🤍 Doy lo mejor de mí en cada cosa que hago.
 
 
-## 🌐 Socials:[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2580db?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0a66c2&color=2580db&label=%20&logoWidth=20&logoHeight=20)](https://linkedin.com/in/josemartinezrdev)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2580db?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0a66c2&color=2580db&label=%20&logoWidth=20&logoHeight=20)](https://linkedin.com/in/josemartinezrdev)
 
 [![Stack Overflow](https://img.shields.io/badge/-stackoverflow-f57e24?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=f57e24&color=ed8d45&label=%20&logoWidth=20&logoHeight=20)](https://stackoverflow.com/users/21964046)
 
