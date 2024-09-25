@@ -1,12 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
 # 💫 About Me:
 
 **🪪 Mi nombre es José Martínez.<br>🌎 Mi país de origen es Colombia.<br>📲 Me gusta aprender cosas nuevas.<br>👨🏻‍💻 Soy un estudiante de programación.<br>🤍 Doy lo mejor de mí en cada cosa que hago.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
 # 🌐 Socials:
 
@@ -18,7 +16,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
 # 💻 Tech Stack:
 
@@ -28,7 +25,6 @@
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
 # 📊 GitHub Stats:
 
@@ -37,7 +33,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinezrdev&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
 ## 🏆 GitHub Trophies
 
