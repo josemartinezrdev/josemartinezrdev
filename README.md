@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<br>
 
 # 💫 About Me:
 
 **🪪 Mi nombre es José Martínez.<br>🌎 Mi país de origen es Colombia.<br>📲 Me gusta aprender cosas nuevas.<br>👨🏻‍💻 Soy un estudiante de programación.<br>🤍 Doy lo mejor de mí en cada cosa que hago.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<br>
 
 # 🌐 Socials:
 
@@ -18,7 +18,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<br>
 
 # 💻 Tech Stack:
 
@@ -28,7 +28,7 @@
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<br>
 
 # 📊 GitHub Stats:
 
@@ -51,6 +51,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=josemartinezrdev&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=josemartinezrdev&icon=7&color=0)](https://visitcount.itsvg.in)
