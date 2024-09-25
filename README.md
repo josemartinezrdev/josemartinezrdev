@@ -1,24 +1,56 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br><br>
+
 # 💫 About Me:
-🪪 Mi nombre es José Martínez.<br>🌎 Mi país de origen es Colombia.<br>📲 Me gusta aprender cosas nuevas.<br>👨🏻‍💻 Soy un estudiante de programación.<br>🤍 Doy lo mejor de mí en cada cosa que hago.
 
+**🪪 Mi nombre es José Martínez.<br>🌎 Mi país de origen es Colombia.<br>📲 Me gusta aprender cosas nuevas.<br>👨🏻‍💻 Soy un estudiante de programación.<br>🤍 Doy lo mejor de mí en cada cosa que hago.**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2580db?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0a66c2&color=2580db&label=%20&logoWidth=20&logoHeight=20)](https://linkedin.com/in/josemartinezrdev) [![Stack Overflow](https://img.shields.io/badge/-stackoverflow-f57e24?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=f57e24&color=ed8d45&label=%20&logoWidth=20&logoHeight=20)](https://stackoverflow.com/users/21964046)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br><br>
+
+# 🌐 Socials:
+
+<p align="center">
+<a href="https://linkedin.com/in/josemartinezrdev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/21964046" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="twitter" height="50" width="50" /></a>
+<a href="mailto:josemartinezrdev@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="twitter" height="50" width="50" /></a>
+<a href="https://dev.to/josemartinezrdev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="twitter" height="50" width="50" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br><br>
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,js,html,css,react,vite,bootstrap,netlify,markdown,github,git,py,mysql,postgres,figma,arduino,bash,idea,vscode,androidstudio,npm&perline=8" />
+  </a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br><br>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=josemartinezrdev&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=josemartinezrdev&theme=radical&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=josemartinezrdev&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=josemartinezrdev&theme=radical&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=josemartinezrdev&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=josemartinezrdev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+![](https://github-profile-trophy.vercel.app/?username=josemartinezrdev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+## 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=josemartinezrdev&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=josemartinezrdev&icon=7&color=0)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br><br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=josemartinezrdev&icon=7&color=0)](https://visitcount.itsvg.in)
