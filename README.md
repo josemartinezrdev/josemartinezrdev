@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,js,html,css,react,vite,bootstrap,netlify,markdown,github,git,py,mysql,postgres,figma,arduino,bash,idea,vscode,androidstudio,npm&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,js,html,css,react,vite,bootstrap,netlify,markdown,github,git,py,fastapi,flask,mysql,postgres,figma,arduino,idea,vscode,androidstudio&perline=8" />
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
